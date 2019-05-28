@@ -296,6 +296,5 @@ int main()
         BFS_NodeMapping(substrateNetwork,request,copySub,resultNodes,resultLinks);
         printf(acc/(cnt+1));
     }
-
     return 0;
 }
